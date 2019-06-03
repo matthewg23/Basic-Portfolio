@@ -1,0 +1,33 @@
+body {
+    background-image: url(../images/random_grey_variations.png);
+    font-family: forma-djr-text, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+  }
+
+#
+
+#heading-color {
+    background: white;
+    margin-inline-start: 20%;
+    margin-inline-end: 20%;
+    display: inline-block;
+    line-height: 70px;
+}
+
+#header-right {
+    background: white;
+    display: inline-block;
+    box-sizing: border-box;
+    position: relative;
+    line-height: 70px;
+}
+
+section {
+    margin-inline-start: 20%;
+    margin-inline-end: 20%;
+}
+
+margin-block-start:
+margin-inline-start:
+display: inline-block;
